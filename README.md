@@ -3,5 +3,5 @@
 NULLPEER - a gray hat hacker & .ASM/.C/.TS programmer from Russia.<br />
 Age: 16 years<br />
 Current activity: Learning Flat ASseMbler’s assembly
-# The languages proficiency
+# The language proficiency
 RUSSIAN (NATIVE), ENGLISH (B2), (I’M GONNA LEARN FRENCH IN THE FUTURE)
