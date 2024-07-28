@@ -1,18 +1,7 @@
-# Знакомство
-<h3>Привет! Я Игорь, пентестер & кодер</h3>
-
-## Владею:
-* Python
-* JS + TS
-* C++ (поверхностно)
-
----
-
-
-[![m8xdev](https://github-readme-stats.vercel.app/api?username=m8xdev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## Про языки
-* Русский (C2, носитель языка)
-* Английский (B1, учу до C1)
+[![m8xdev](https://github-readme-stats.vercel.app/api?username=nullpeer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# Info
+NULLPEER - a gray hat hacker & .ASM/.C/.TS programmer from Russia.
+Age: 16 years
+Current activity: Learning Flat ASseMbler’s assembly
+# The languages proficiency
+RUSSIAN (NATIVE), ENGLISH (B2), (I’M GONNA LEARN FRENCH IN THE FUTURE)
